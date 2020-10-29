@@ -1,0 +1,18 @@
+.Input, .Button {
+    margin-right: 3px;
+    border-radius: 7px;
+    height: 30px;
+    padding: 3px;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.Button {
+    margin: 0px;
+    width: 55px;
+}
+
+.Button:hover {
+    background-color: rgb(158, 158, 158);
+    color: white;
+}
